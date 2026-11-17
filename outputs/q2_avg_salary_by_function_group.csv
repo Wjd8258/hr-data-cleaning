@@ -1,0 +1,9 @@
+function_group,num_payments,num_employees,avg_salary,min_salary,max_salary
+Managers,80,8,4138.19,1348.44,6335.56
+Engineering,193,19,3373.84,2596.77,5500.0
+Production Supervisors,373,45,2847.74,1120.0,5612.9
+Administration,654,86,1963.5,606.0,5870.97
+Machine Operators,256,33,1743.81,1036.98,2800.0
+Professionals,3290,488,1705.09,1015.55,2103.2
+Assistants,2783,441,1225.9,1016.52,2103.2
+Trainees,158,30,950.0,950.0,950.0

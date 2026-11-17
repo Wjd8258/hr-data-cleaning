@@ -1,0 +1,8 @@
+function_group,avg_salary_male,avg_salary_female,gap_m_minus_f
+Managers,4630.49,1348.44,3282.05
+Administration,1906.27,2322.15,-415.88
+Production Supervisors,2836.17,2990.33,-154.16
+Machine Operators,1747.28,1679.03,68.24
+Professionals,1699.42,1741.61,-42.19
+Assistants,1227.28,1218.47,8.81
+Trainees,950.0,950.0,0.0

@@ -1,0 +1,4 @@
+state,num_payments,num_employees,avg_salary,min_salary,max_salary,total_payroll
+Goias,4865,732,1671.93,606.0,6335.56,8133945.18
+Distrito Federal,2632,371,1649.26,950.0,5500.0,4340841.71
+Tocantins,290,50,1626.54,950.0,3884.5,471697.65
